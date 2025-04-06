@@ -30,7 +30,7 @@
 </head>
 <body>
   <h1>Mente em Ascensão</h1>
-  <p>Seja bem-vindo(a) ao nosso espaço de transformação, fé e sabedoria. Em breve, mais conteúdos inspiradores!</p>
+  <p> Quer aprender a fazer vídeos como esses? Te ensino, com apenas 1 hora do seu dia você já consegue sem saber editar.  </p>
   <footer>
     © 2025 Mente em Ascensão. Todos os direitos reservados.
   </footer>
